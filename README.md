@@ -214,9 +214,11 @@ Path found: ['A', 'E', 'D', 'G']
 
 <h3>Original Output</h3>
 
-![alt text](image.png)
+<img width="1494" height="768" alt="image" src="https://github.com/user-attachments/assets/03f35a64-947e-4eab-b69f-c2e22c879010" />
 
-![alt text](image-1.png)
+
+<img width="1436" height="492" alt="image" src="https://github.com/user-attachments/assets/82a03428-abab-4b70-90d3-fd97c7208f50" />
+
 
 <h3>Result:</h3>
 <hr>
